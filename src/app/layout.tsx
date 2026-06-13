@@ -52,9 +52,9 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: "/logo1.png",
-    shortcut: "/logo1.png",
-    apple: "/logo1.png",
+    icon: "/hero/logo1.png",
+    shortcut: "/hero/logo1.png",
+    apple: "/hero/logo1.png",
   },
 
   openGraph: {
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
 
     images: [
       {
-        url: "/logo1.png",
+        url: "/hero/logo1.png",
         width: 1200,
         height: 630,
         alt: "Sri Yantra Tech",
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     description:
       "Strategic marketing and technology solutions company.",
 
-    images: ["/logo1.png"],
+    images: ["/hero/logo1.png"],
   },
 
   alternates: {
@@ -98,7 +98,7 @@ const organizationSchema = {
 
   url: "https://www.sriyantratech.com",
 
-  logo: "https://www.sriyantratech.com/logo1.png",
+  logo: "https://www.sriyantratech.com/hero/logo1.png",
 
   description:
     "Strategic marketing and technology solutions company.",
