@@ -51,6 +51,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: "https://www.sriyantratech.com/marketing/industries/technology-saas",
       lastModified: new Date(),
     },
+    {
+      url: "https://www.sriyantratech.com/marketing/industries/media",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://www.sriyantratech.com/marketing/industries/retial&e-com",
+      lastModified: new Date(),
+    },
 
     {
       url: "https://www.sriyantratech.com/marketing/insights",
