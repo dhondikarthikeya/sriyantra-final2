@@ -19,14 +19,14 @@ export default function Footer() {
               <a href="#">Home</a>
             </li>
             <li>
-              <a href="#">Capabilities</a>
+              <a href="/marketing/about">About Us</a>
             </li>
             <li>
-              <a href="#">Operating Model</a>
+              <a href="/marketing/operating-model">Operating Model</a>
             </li>
-            <li>
+            {/* <li>
               <a href="#">Insights</a>
-            </li>
+            </li> */}
           </ul>
         </div>
 
@@ -34,51 +34,51 @@ export default function Footer() {
           <h4>Industries</h4>
           <ul>
             <li>
-              <a href="#">Technology &amp; SaaS</a>
+              <a href="/marketing/industries/technology-saas">Technology &amp; SaaS</a>
             </li>
             <li>
-              <a href="#">Manufacturing</a>
+              <a href="/marketing/industries/manufacturing">Manufacturing</a>
             </li>
             <li>
-              <a href="#">Automotive &amp; Mobility</a>
+              <a href="/marketing/industries/automotive">Automotive &amp; Mobility</a>
             </li>
-            <li>
-              <a href="#">Energy &amp; Utilities</a>
-            </li>
-            <li>
+            {/* <li>
+              <a href="">Energy &amp; Utilities</a>
+            </li> */}
+            {/* <li>
               <a href="#">Infrastructure &amp; Construction</a>
-            </li>
+            </li> */}
             <li>
-              <a href="#">Banking &amp; Financial Services</a>
+              <a href="/marketing/industries/retial&e-com">Banking &amp; Financial Services</a>
             </li>
-            <li>
+            {/* <li>
               <a href="#">Healthcare</a>
-            </li>
+            </li> */}
             <li>
-              <a href="#">Retail &amp; E-Commerce</a>
+              <a href="/marketing/industries/retial&e-com">Retail &amp; E-Commerce</a>
             </li>
-            <li>
+            {/* <li>
               <a href="#">Logistics</a>
-            </li>
+            </li> */}
           </ul>
         </div>
 
         <div className="footer-links services">
-          <h4>Services</h4>
+          <h4>Capabilities</h4>
           <ul>
             <li>
-              <a href="#">Strategic Technology Consulting</a>
+              <a href="/marketing/services/strategic">Strategic Technology Consulting</a>
             </li>
             <li>
-              <a href="#">Product &amp; Digital Engineering</a>
+              <a href="/marketing/services/product">Product &amp; Digital Engineering</a>
             </li>
             <li>
-              <a href="#">AI &amp; Agentic Systems</a>
+              <a href="/marketing/services/Ai-Agentic">AI &amp; Agentic Systems</a>
             </li>
             <li>
-              <a href="#">Data &amp; Analytics Engineering</a>
+              <a href="/marketing/services/Data">Data &amp; Analytics Engineering</a>
             </li>
-            <li>
+            {/* <li>
               <a href="#">Cloud &amp; Infrastructure Engineering</a>
             </li>
             <li>
@@ -86,7 +86,7 @@ export default function Footer() {
             </li>
             <li>
               <a href="#">Industrial Systems Engineering</a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
